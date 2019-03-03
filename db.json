@@ -1,0 +1,3375 @@
+{
+	"messageArr": [],
+	"data": {
+		"kod": 0,
+		"mesajlar": [],
+		"sutunLabels": ["(17) \u0130\u015f \u0130lanlar\u0131",
+		"(17) Bana Uygun \u0130\u015fler",
+		"(17) \u0130\u015f Ba\u015fvurusu Sorgulama",
+		"(17) \u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+		"(17) \u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+		"(302) IMDG\/DGR Kursiyer Listele",
+		"(302) IMDG\/DGR Sertifika \u0130\u015flemleri",
+		"(206) Askerlik Durum Belgesi Do\u011frulama",
+		"(302) S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+		"(1008) Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+		"(302) TMGD S\u0131nav Hakk\u0131 Sorgula",
+		"(114) Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+		"(1015) Bor\u00e7 ve Alacak Sorgulama"],
+		"satirLabels": ["01",
+		"02",
+		"03",
+		"04",
+		"05",
+		"06",
+		"07",
+		"08",
+		"09",
+		"10",
+		"11",
+		"12",
+		"13",
+		"14",
+		"15",
+		"16",
+		"17",
+		"18",
+		"19",
+		"20",
+		"21",
+		"22",
+		"23",
+		"24",
+		"25",
+		"26",
+		"27",
+		"28",
+		"29",
+		"30",
+		"31"],
+		"gunlukHataInfo": {
+			"17_216": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 28264,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 25676,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 36210,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 32502,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 31774,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 64418,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 49818,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 20470,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 20786,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 31236,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 29823,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 41729,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 29176,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 26629,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 38767,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 23262,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 29672,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 28742,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 28011,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 27916,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 22960,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 20269,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 23296,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 26544,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 34466,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 34644,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 33214,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 28794,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 23326,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 24832,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "216",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f \u0130lanlar\u0131",
+				"gunlukToplamHataSayisi": 51716,
+				"gunlukSiemDosyaSayisi": 131
+			}],
+			"17_217": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10089,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 9780,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12386,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12516,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12086,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 15250,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12480,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 8186,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 7964,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 11820,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 11584,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12987,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10280,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 9685,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 9914,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 8312,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 11082,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10662,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10721,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10270,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 8656,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 7395,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 8142,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 9830,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12720,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12888,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 12624,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 10454,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 8344,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 9149,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "217",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "Bana Uygun \u0130\u015fler",
+				"gunlukToplamHataSayisi": 15194,
+				"gunlukSiemDosyaSayisi": 131
+			}],
+			"17_218": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 2542,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 2214,
+				"gunlukSiemDosyaSayisi": 121
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4074,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 3906,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 3724,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 8358,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 6337,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 2065,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 2200,
+				"gunlukSiemDosyaSayisi": 117
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 3872,
+				"gunlukSiemDosyaSayisi": 123
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4775,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 6598,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4986,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4752,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 5798,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 3036,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 5270,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 5676,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 6074,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 6824,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4767,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 2900,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 3026,
+				"gunlukSiemDosyaSayisi": 120
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4832,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 5919,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 6580,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 9864,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 8034,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4642,
+				"gunlukSiemDosyaSayisi": 123
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 4075,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "218",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015f Ba\u015fvurusu Sorgulama",
+				"gunlukToplamHataSayisi": 7262,
+				"gunlukSiemDosyaSayisi": 129
+			}],
+			"17_220": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 4350,
+				"gunlukSiemDosyaSayisi": 123
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 3352,
+				"gunlukSiemDosyaSayisi": 123
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 8944,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 7188,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 6786,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 15334,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 12776,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2931,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2698,
+				"gunlukSiemDosyaSayisi": 117
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 6598,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5280,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 7152,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 4864,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 4412,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5936,
+				"gunlukSiemDosyaSayisi": 118
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2470,
+				"gunlukSiemDosyaSayisi": 118
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5706,
+				"gunlukSiemDosyaSayisi": 120
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5482,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 4640,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 4138,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 3781,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2309,
+				"gunlukSiemDosyaSayisi": 117
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2262,
+				"gunlukSiemDosyaSayisi": 118
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5114,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5654,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5902,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5136,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5172,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 3192,
+				"gunlukSiemDosyaSayisi": 117
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 2536,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "220",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Ba\u015fvurusu",
+				"gunlukToplamHataSayisi": 5138,
+				"gunlukSiemDosyaSayisi": 120
+			}],
+			"17_221": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 37296,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 34823,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 69305,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 68970,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 86372,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 88268,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 77390,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 28696,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 27256,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 49764,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 45927,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 53051,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 41210,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 38867,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 38808,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 27385,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 46656,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 44608,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 43129,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 40910,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 35853,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 25324,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 27050,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 43488,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 82456,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 70734,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 62746,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 54496,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 41058,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 42402,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "17",
+				"hizmetKodu": "221",
+				"kurumAdi": "T\u00fcrkiye \u0130\u015f Kurumu (\u0130\u015eKUR)",
+				"hizmetAdi": "\u0130\u015fsizlik \u00d6dene\u011fi\/\u0130\u015f Kayb\u0131 Tazminat\u0131 Sorgulama",
+				"gunlukToplamHataSayisi": 58948,
+				"gunlukSiemDosyaSayisi": 131
+			}],
+			"302_1136": [{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 86,
+				"gunlukSiemDosyaSayisi": 15
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 64,
+				"gunlukSiemDosyaSayisi": 16
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 86,
+				"gunlukSiemDosyaSayisi": 16
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 82,
+				"gunlukSiemDosyaSayisi": 19
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 120,
+				"gunlukSiemDosyaSayisi": 14
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 16,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 72,
+				"gunlukSiemDosyaSayisi": 12
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 46,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 176,
+				"gunlukSiemDosyaSayisi": 18
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 86,
+				"gunlukSiemDosyaSayisi": 14
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 10,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 180,
+				"gunlukSiemDosyaSayisi": 22
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 126,
+				"gunlukSiemDosyaSayisi": 17
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 114,
+				"gunlukSiemDosyaSayisi": 21
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 54,
+				"gunlukSiemDosyaSayisi": 6
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 54,
+				"gunlukSiemDosyaSayisi": 14
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 84,
+				"gunlukSiemDosyaSayisi": 15
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 72,
+				"gunlukSiemDosyaSayisi": 12
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 118,
+				"gunlukSiemDosyaSayisi": 25
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 48,
+				"gunlukSiemDosyaSayisi": 11
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 124,
+				"gunlukSiemDosyaSayisi": 20
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1136",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Kursiyer Listele",
+				"gunlukToplamHataSayisi": 32,
+				"gunlukSiemDosyaSayisi": 5
+			}],
+			"302_1139": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 218,
+				"gunlukSiemDosyaSayisi": 19
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 430,
+				"gunlukSiemDosyaSayisi": 22
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 484,
+				"gunlukSiemDosyaSayisi": 20
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 288,
+				"gunlukSiemDosyaSayisi": 27
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 446,
+				"gunlukSiemDosyaSayisi": 28
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 28,
+				"gunlukSiemDosyaSayisi": 5
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 280,
+				"gunlukSiemDosyaSayisi": 21
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 300,
+				"gunlukSiemDosyaSayisi": 16
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 370,
+				"gunlukSiemDosyaSayisi": 27
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 572,
+				"gunlukSiemDosyaSayisi": 24
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 304,
+				"gunlukSiemDosyaSayisi": 26
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 14,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 530,
+				"gunlukSiemDosyaSayisi": 25
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 136,
+				"gunlukSiemDosyaSayisi": 13
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 316,
+				"gunlukSiemDosyaSayisi": 24
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 476,
+				"gunlukSiemDosyaSayisi": 30
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 318,
+				"gunlukSiemDosyaSayisi": 19
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 10,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 596,
+				"gunlukSiemDosyaSayisi": 34
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 228,
+				"gunlukSiemDosyaSayisi": 25
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 82,
+				"gunlukSiemDosyaSayisi": 20
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 794,
+				"gunlukSiemDosyaSayisi": 31
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 244,
+				"gunlukSiemDosyaSayisi": 28
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 10,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1139",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "IMDG\/DGR Sertifika \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 260,
+				"gunlukSiemDosyaSayisi": 12
+			}],
+			"206_1146": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 120,
+				"gunlukSiemDosyaSayisi": 46
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 146,
+				"gunlukSiemDosyaSayisi": 46
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 246,
+				"gunlukSiemDosyaSayisi": 63
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 252,
+				"gunlukSiemDosyaSayisi": 62
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 242,
+				"gunlukSiemDosyaSayisi": 61
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 252,
+				"gunlukSiemDosyaSayisi": 72
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 210,
+				"gunlukSiemDosyaSayisi": 58
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 110,
+				"gunlukSiemDosyaSayisi": 33
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 120,
+				"gunlukSiemDosyaSayisi": 36
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 230,
+				"gunlukSiemDosyaSayisi": 56
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 232,
+				"gunlukSiemDosyaSayisi": 69
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 275,
+				"gunlukSiemDosyaSayisi": 62
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 236,
+				"gunlukSiemDosyaSayisi": 61
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 244,
+				"gunlukSiemDosyaSayisi": 64
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 116,
+				"gunlukSiemDosyaSayisi": 40
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 86,
+				"gunlukSiemDosyaSayisi": 29
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 316,
+				"gunlukSiemDosyaSayisi": 62
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 312,
+				"gunlukSiemDosyaSayisi": 67
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 216,
+				"gunlukSiemDosyaSayisi": 53
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 190,
+				"gunlukSiemDosyaSayisi": 50
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 210,
+				"gunlukSiemDosyaSayisi": 56
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 152,
+				"gunlukSiemDosyaSayisi": 41
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 124,
+				"gunlukSiemDosyaSayisi": 42
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 242,
+				"gunlukSiemDosyaSayisi": 60
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 184,
+				"gunlukSiemDosyaSayisi": 49
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 190,
+				"gunlukSiemDosyaSayisi": 58
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 148,
+				"gunlukSiemDosyaSayisi": 47
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 222,
+				"gunlukSiemDosyaSayisi": 64
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 110,
+				"gunlukSiemDosyaSayisi": 36
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 144,
+				"gunlukSiemDosyaSayisi": 47
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "206",
+				"hizmetKodu": "1146",
+				"kurumAdi": "Mill\u00ee Savunma Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "Askerlik Durum Belgesi Do\u011frulama",
+				"gunlukToplamHataSayisi": 198,
+				"gunlukSiemDosyaSayisi": 54
+			}],
+			"302_1164": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 66,
+				"gunlukSiemDosyaSayisi": 8
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 40,
+				"gunlukSiemDosyaSayisi": 5
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 54,
+				"gunlukSiemDosyaSayisi": 7
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 126,
+				"gunlukSiemDosyaSayisi": 16
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 52,
+				"gunlukSiemDosyaSayisi": 8
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 24,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 438,
+				"gunlukSiemDosyaSayisi": 39
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 1340,
+				"gunlukSiemDosyaSayisi": 41
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 164,
+				"gunlukSiemDosyaSayisi": 22
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 114,
+				"gunlukSiemDosyaSayisi": 8
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 24,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 14,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 44,
+				"gunlukSiemDosyaSayisi": 5
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 24,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 26,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 30,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 22,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 40,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1164",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "S\u0131nav Toplu Sonu\u00e7 Sorgulama",
+				"gunlukToplamHataSayisi": 12,
+				"gunlukSiemDosyaSayisi": 2
+			}],
+			"1008_1180": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 18,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 10,
+				"gunlukSiemDosyaSayisi": 5
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 10
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 10
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 12,
+				"gunlukSiemDosyaSayisi": 6
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 14,
+				"gunlukSiemDosyaSayisi": 7
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 22,
+				"gunlukSiemDosyaSayisi": 11
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 10
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 10
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 21,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 184,
+				"gunlukSiemDosyaSayisi": 39
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 70,
+				"gunlukSiemDosyaSayisi": 26
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 24,
+				"gunlukSiemDosyaSayisi": 12
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 14,
+				"gunlukSiemDosyaSayisi": 7
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 12,
+				"gunlukSiemDosyaSayisi": 6
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 18,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 14,
+				"gunlukSiemDosyaSayisi": 7
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 20,
+				"gunlukSiemDosyaSayisi": 10
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 18,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 186,
+				"gunlukSiemDosyaSayisi": 42
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 174,
+				"gunlukSiemDosyaSayisi": 59
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 214,
+				"gunlukSiemDosyaSayisi": 70
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 308,
+				"gunlukSiemDosyaSayisi": 75
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 310,
+				"gunlukSiemDosyaSayisi": 80
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 366,
+				"gunlukSiemDosyaSayisi": 84
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 424,
+				"gunlukSiemDosyaSayisi": 89
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 394,
+				"gunlukSiemDosyaSayisi": 86
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 228,
+				"gunlukSiemDosyaSayisi": 68
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 296,
+				"gunlukSiemDosyaSayisi": 73
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "1008",
+				"hizmetKodu": "1180",
+				"kurumAdi": "Kamu G\u00f6zetimi Muhasebe ve Denetim Standartlar\u0131 Kurumu",
+				"hizmetAdi": "Tescil ve \u0130lan S\u00fcreci Devam Eden Ba\u011f\u0131ms\u0131z Denet\u00e7iler",
+				"gunlukToplamHataSayisi": 262,
+				"gunlukSiemDosyaSayisi": 75
+			}],
+			"302_1233": [{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 4,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 54,
+				"gunlukSiemDosyaSayisi": 11
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 106,
+				"gunlukSiemDosyaSayisi": 18
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 22,
+				"gunlukSiemDosyaSayisi": 7
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 4,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 4,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 48,
+				"gunlukSiemDosyaSayisi": 9
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 16,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 4,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 4,
+				"gunlukSiemDosyaSayisi": 2
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 8,
+				"gunlukSiemDosyaSayisi": 4
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 6,
+				"gunlukSiemDosyaSayisi": 3
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "302",
+				"hizmetKodu": "1233",
+				"kurumAdi": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+				"hizmetAdi": "TMGD S\u0131nav Hakk\u0131 Sorgula",
+				"gunlukToplamHataSayisi": 2,
+				"gunlukSiemDosyaSayisi": 1
+			}],
+			"114_1252": [{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 15268,
+				"gunlukSiemDosyaSayisi": 70
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 21221,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 15114,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 10781,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 9630,
+				"gunlukSiemDosyaSayisi": 126
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 4438,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 3896,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 8188,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 7948,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 6479,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 6272,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 6686,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 2434,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 2604,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "114",
+				"hizmetKodu": "1252",
+				"kurumAdi": "Devlet Personel Ba\u015fkanl\u0131\u011f\u0131",
+				"hizmetAdi": "Sosyal Hizmetler Kanunu Kapsam\u0131nda \u0130\u015fe Yerle\u015ftirme Tercih \u0130\u015flemleri",
+				"gunlukToplamHataSayisi": 3736,
+				"gunlukSiemDosyaSayisi": 110
+			}],
+			"1015_1264": [{
+				"analizYapilanGun": "01.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3084,
+				"gunlukSiemDosyaSayisi": 127
+			},
+			{
+				"analizYapilanGun": "02.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2810,
+				"gunlukSiemDosyaSayisi": 121
+			},
+			{
+				"analizYapilanGun": "03.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 4530,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "04.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 4788,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "05.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 4860,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "06.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 4182,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "07.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3368,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "08.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2293,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "09.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2090,
+				"gunlukSiemDosyaSayisi": 125
+			},
+			{
+				"analizYapilanGun": "10.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3262,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "11.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3416,
+				"gunlukSiemDosyaSayisi": 131
+			},
+			{
+				"analizYapilanGun": "12.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3526,
+				"gunlukSiemDosyaSayisi": 130
+			},
+			{
+				"analizYapilanGun": "13.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3095,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "14.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3004,
+				"gunlukSiemDosyaSayisi": 124
+			},
+			{
+				"analizYapilanGun": "15.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2140,
+				"gunlukSiemDosyaSayisi": 117
+			},
+			{
+				"analizYapilanGun": "16.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1998,
+				"gunlukSiemDosyaSayisi": 111
+			},
+			{
+				"analizYapilanGun": "17.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3791,
+				"gunlukSiemDosyaSayisi": 129
+			},
+			{
+				"analizYapilanGun": "18.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 3488,
+				"gunlukSiemDosyaSayisi": 128
+			},
+			{
+				"analizYapilanGun": "19.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2901,
+				"gunlukSiemDosyaSayisi": 120
+			},
+			{
+				"analizYapilanGun": "20.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1868,
+				"gunlukSiemDosyaSayisi": 114
+			},
+			{
+				"analizYapilanGun": "21.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1370,
+				"gunlukSiemDosyaSayisi": 108
+			},
+			{
+				"analizYapilanGun": "22.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1027,
+				"gunlukSiemDosyaSayisi": 108
+			},
+			{
+				"analizYapilanGun": "23.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1084,
+				"gunlukSiemDosyaSayisi": 112
+			},
+			{
+				"analizYapilanGun": "24.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2076,
+				"gunlukSiemDosyaSayisi": 106
+			},
+			{
+				"analizYapilanGun": "25.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2162,
+				"gunlukSiemDosyaSayisi": 116
+			},
+			{
+				"analizYapilanGun": "26.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2002,
+				"gunlukSiemDosyaSayisi": 123
+			},
+			{
+				"analizYapilanGun": "27.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 2154,
+				"gunlukSiemDosyaSayisi": 116
+			},
+			{
+				"analizYapilanGun": "28.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1834,
+				"gunlukSiemDosyaSayisi": 121
+			},
+			{
+				"analizYapilanGun": "29.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1606,
+				"gunlukSiemDosyaSayisi": 122
+			},
+			{
+				"analizYapilanGun": "30.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1412,
+				"gunlukSiemDosyaSayisi": 118
+			},
+			{
+				"analizYapilanGun": "31.12.2018 00:00:00",
+				"kurumKodu": "1015",
+				"hizmetKodu": "1264",
+				"kurumAdi": "TT Mobil",
+				"hizmetAdi": "Bor\u00e7 ve Alacak Sorgulama",
+				"gunlukToplamHataSayisi": 1602,
+				"gunlukSiemDosyaSayisi": 116
+			}]
+		},
+		"sutunInfo": {
+			"17_216": {
+				"max": 64418,
+				"min": 20269
+			},
+			"17_217": {
+				"max": 15250,
+				"min": 7395
+			},
+			"17_218": {
+				"max": 9864,
+				"min": 2065
+			},
+			"17_220": {
+				"max": 15334,
+				"min": 2262
+			},
+			"17_221": {
+				"max": 88268,
+				"min": 25324
+			},
+			"302_1136": {
+				"max": 180,
+				"min": 6
+			},
+			"302_1139": {
+				"max": 794,
+				"min": 2
+			},
+			"206_1146": {
+				"max": 316,
+				"min": 86
+			},
+			"302_1164": {
+				"max": 1340,
+				"min": 6
+			},
+			"1008_1180": {
+				"max": 424,
+				"min": 8
+			},
+			"302_1233": {
+				"max": 106,
+				"min": 2
+			},
+			"114_1252": {
+				"max": 21221,
+				"min": 2434
+			},
+			"1015_1264": {
+				"max": 4860,
+				"min": 1027
+			}
+		}
+	},
+	"returns": true
+}
